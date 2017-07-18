@@ -1,0 +1,14 @@
+//
+//  SetFile.pch
+//  UseRAC
+//
+//  Created by 冷求慧 on 2017/7/17.
+//  Copyright © 2017年 冷求慧. All rights reserved.
+//
+
+#ifndef SetFile_pch
+#define SetFile_pch
+
+#import <ReactiveObjC/ReactiveObjC.h>    // RAC框架
+
+#endif /* SetFile_pch */
